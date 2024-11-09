@@ -4,8 +4,8 @@ function calculer() {
   let choix = document.getElementById("choix").value;
   let choix1 = document.getElementById("c1").value;
   let choix2 = document.getElementById("c2").value;
-  let choix3 = document.getElementById("c2").value;
-  let choix4 = document.getElementById("c2").value;
+  let choix3 = document.getElementById("c3").value;
+  let choix4 = document.getElementById("c4").value;
 
   let res = document.getElementById("res");
 
